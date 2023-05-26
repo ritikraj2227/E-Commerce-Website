@@ -1,0 +1,28 @@
+@import './components/header/Header.module';
+@import './components/footer/Footer.module';
+@import './components/slider/Slider.module';
+
+
+
+
+@import './pages/contactUs/Contact.module';
+@import './pages/admin/Admin.module';
+
+@import './components/product/Products.module';
+@import './components/product/product-details/ProductDetails.module';
+
+@import './pages/cart/Cart.module';
+
+@import './pages/checkout/Checkout.module';
+
+@import './components/checkoutForm/CheckoutForm.module';
+
+@import './pages/orderHistory/OrderHistory.module';
+
+@import './pages/orderDetails/OrderDetails.module';
+
+
+
+@import './pages/notfound/NotFound.module';
+
+@import './pages//login/Login.module';
